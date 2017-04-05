@@ -1,0 +1,28 @@
+{
+  "name": "flashcard_generator",
+  "version": "1.0.0",
+  "description": "node app front end to create flash card content",
+  "main": "flashGen.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlangton/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flash",
+    "oh",
+    "oh!"
+  ],
+  "author": "tom l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlangton/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/tlangton/Flashcard-Generator#readme"
+}
